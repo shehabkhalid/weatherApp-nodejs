@@ -1,0 +1,125 @@
+#navbar .logo
+{
+    float: none;
+    text-align: center;
+}
+
+#navbar ul {
+
+    list-style: none;
+    float: none;
+    padding-bottom: 10px;
+ 
+}
+#navbar li {
+    float: none;
+}
+#navbar li a {
+
+    display: block;
+    padding: 5px;
+    text-align: center;
+}
+#showcase
+{
+    height: 45rem;
+}
+#home-info {
+    overflow: auto;
+    height: 50rem;
+}
+
+#home-img {
+    float: none;
+    width: 100%;
+    min-height: 40%;
+}
+#home-content {
+    width: 100%;
+    float: none;
+    text-align: center;
+    overflow: hidden;
+    height: 65%;
+    padding: 50px 30px;
+    
+}
+.box {
+
+   
+    float: none;
+    width: 100%;
+  
+    text-align: center;
+
+}
+
+
+#aboutcontent {
+
+    float: none;
+    min-width: 100%;
+
+}
+
+#aboutcontent h1 {
+    font-size: 32px;
+    margin-bottom: 1rem;
+  
+    text-align: center;
+}
+
+#aboutcontent p {
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+#about-img img {
+    display: block;
+    float: none;
+
+    width: 100%;
+    border-radius: 50%;
+}
+#gest h1 {
+
+    padding-top: 40px;
+    line-height: 3rem;
+    font-size: 38px;
+    color: white;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.card {
+    margin-left: 5px;
+    width: 100%;
+    background: goldenrod;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 60px;
+    opacity: 0.9;
+}
+.card img {
+
+
+    margin: 10px 20px;
+    float: left;
+    width: 23%;
+    padding-top: 10px;
+    border-radius: 50%;
+}
+#test {
+  
+    display: block;
+    height: auto;
+    padding-bottom: 3rem;
+    width: 100%;
+
+}
+label
+{
+    margin-bottom: 5px;
+}
+textarea
+{
+   margin-top: 10px;
+}

@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+   
+
+    padding-top: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333;
+}
+
+#allPage
+{
+    background: url('https://source.unsplash.com/4FCjiyUjtuc')  no-repeat center center/cover; ;
+    height: 100vh;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+.cont{
+
+   
+    max-width: 1000px;
+    margin: auto;
+}
+#header{
+    
+  display: flex;
+  justify-content: center;
+}
+a{
+    
+
+    padding: 10px 20px;
+    overflow: auto;
+    margin-right: 10px;
+    text-decoration: none;
+    background: #333;
+    color: aliceblue;
+}
+p{
+    font-weight: bold;
+    text-align: center;
+    font-size: 22px;
+}
+form
+{
+   
+    justify-self: center;
+    overflow: auto;
+    margin-top: 40px;
+   
+     
+}
+form input{
+    text-align: center;
+    font-size: 16px;
+    margin: auto;
+    display: block;
+    height: 35px;
+    width: 45%;
+    border-color: #333;
+    margin-bottom: 35px;
+}
+
+form button{
+   
+    margin: auto;
+    display: block;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    background: #333;
+    color:whitesmoke;
+    
+}
+
+h2{
+    margin-top: 50px;
+    text-align: center;
+    color: wheat;
+}
